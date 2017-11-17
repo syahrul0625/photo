@@ -1,0 +1,16 @@
+{
+   "wallpapers": [
+      {
+         "author": "Foto 1",
+         "url": "https://raw.githubusercontent.com/syahrul0625/photo/master/photo_1.jpg",
+         "name": "Foto 1",
+         "thumbnail": "https://raw.githubusercontent.com/syahrul0625/photo/master/thumb_photo_1.jpg"
+      },
+      {
+         "author": "Foto 2",
+         "url": "https://raw.githubusercontent.com/syahrul0625/photo/master/photo_2.jpg",
+         "name": "Foto 2",
+         "thumbnail": "https://raw.githubusercontent.com/syahrul0625/photo/master/thumb_photo_2.jpg"
+      }
+   ]
+}
