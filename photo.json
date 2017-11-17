@@ -1,40 +1,28 @@
 {
    "wallpapers": [
       {
-         "author": "Tom Wellington",
-         "url": "https://raw.githubusercontent.com/afollestad/polar_json/master/east_branch.jpg",
-         "name": "East Branch",
-         "thumbnail": "https://raw.githubusercontent.com/afollestad/polar_json/master/east_branch_thumb.jpg"
+         "author": "Foto 1",
+         "url": "https://raw.githubusercontent.com/syahrul0625/photo/master/photo_1.jpg",
+         "name": "Foto 1",
+         "thumbnail": "https://raw.githubusercontent.com/syahrul0625/photo/master/thumb_photo_1.jpg"
       },
       {
-         "author": "Tom Wellington",
-         "url": "https://github.com/afollestad/polar_json/raw/master/buildings.jpg",
-         "name": "Heads Up",
-         "thumbnail": "https://github.com/afollestad/polar_json/raw/master/buildings_thumb.jpg"
+         "author": "Foto 2",
+         "url": "https://raw.githubusercontent.com/syahrul0625/photo/master/photo_2.jpg",
+         "name": "Foto 2",
+         "thumbnail": "https://raw.githubusercontent.com/syahrul0625/photo/master/thumb_photo_2.jpg"
       },
       {
-         "author": "Tom Wellington",
-         "url": "https://github.com/afollestad/polar_json/raw/master/flamingos.jpg",
-         "name":" Flamingos",
-         "thumbnail": "https://github.com/afollestad/polar_json/raw/master/flamingos_thumb.jpg"
+         "author": "Foto 3",
+         "url": "https://raw.githubusercontent.com/syahrul0625/photo/master/photo_3.jpg",
+         "name": "Foto 3",
+         "thumbnail": "https://raw.githubusercontent.com/syahrul0625/photo/master/thumb_photo_3.jpg"
       },
       {
-         "author": "Tom Wellington",
-         "url": "https://github.com/afollestad/polar_json/raw/master/forest_one.png",
-         "name": "Forest",
-         "thumbnail": "https://github.com/afollestad/polar_json/raw/master/forest_one_thumb.jpg"
-      },
-      {
-         "author": "Tom Wellington",
-         "url": "https://github.com/afollestad/polar_json/raw/master/tree_farm.jpg",
-         "name": "Tree Farm",
-         "thumbnail": "https://github.com/afollestad/polar_json/raw/master/tree_farm_thumb.jpg"
-      },
-      {
-         "author":"Tom Wellington",
-         "url":"https://github.com/afollestad/polar_json/raw/master/tree_tops.jpg",
-         "name":"Tree Tops",
-         "thumbnail":"https://github.com/afollestad/polar_json/raw/master/tree_tops_thumb.jpg"
+         "author": "Foto 4",
+         "url": "https://raw.githubusercontent.com/syahrul0625/photo/master/photo_4.jpg",
+         "name": "Foto 4",
+         "thumbnail": "https://raw.githubusercontent.com/syahrul0625/photo/master/thumb_photo_4.jpg"
       }
    ]
 }
