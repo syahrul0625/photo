@@ -11,18 +11,6 @@
          "url": "https://raw.githubusercontent.com/syahrul0625/photo/master/photo_2.jpg",
          "name": "Foto 2",
          "thumbnail": "https://raw.githubusercontent.com/syahrul0625/photo/master/thumb_photo_2.jpg"
-      },
-      {
-         "author": "Foto 3",
-         "url": "https://raw.githubusercontent.com/syahrul0625/photo/master/photo_3.jpg",
-         "name": "Foto 3",
-         "thumbnail": "https://raw.githubusercontent.com/syahrul0625/photo/master/thumb_photo_3.jpg"
-      },
-      {
-         "author": "Foto 4",
-         "url": "https://raw.githubusercontent.com/syahrul0625/photo/master/photo_4.jpg",
-         "name": "Foto 4",
-         "thumbnail": "https://raw.githubusercontent.com/syahrul0625/photo/master/thumb_photo_4.jpg"
       }
    ]
 }
