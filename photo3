@@ -1,0 +1,22 @@
+{
+   "wallpapers": [
+      {
+         "author": "Foto 1",
+         "url": "https://raw.githubusercontent.com/syahrul0625/photo/master/photo_1.jpg",
+         "name": "Foto 1",
+         "thumbnail": "https://raw.githubusercontent.com/syahrul0625/photo/master/thumb_photo_1.jpg"
+      },
+      {
+         "author": "Foto 2",
+         "url": "https://raw.githubusercontent.com/syahrul0625/photo/master/photo_2.jpg",
+         "name": "Foto 2",
+         "thumbnail": "https://raw.githubusercontent.com/syahrul0625/photo/master/thumb_photo_2.jpg"
+      },
+      {
+         "author": "Foto 3",
+         "url": "https://scontent-sin6-1.cdninstagram.com/t51.2885-15/s720x720/e35/c107.0.426.426/22159325_1512451652166996_289988533899231232_n.jpg",
+         "name": "Foto 3",
+         "thumbnail": "https://scontent-sin6-1.cdninstagram.com/t51.2885-15/s240x240/e35/c107.0.426.426/22159325_1512451652166996_289988533899231232_n.jpg
+      }
+   ]
+}
