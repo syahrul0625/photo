@@ -11,6 +11,36 @@
          "url": "https://raw.githubusercontent.com/syahrul0625/photo/master/photo_2.jpg",
          "name": "Foto 2",
          "thumbnail": "https://raw.githubusercontent.com/syahrul0625/photo/master/thumb_photo_2.jpg"
+      },
+      {
+         "author": "Foto 3",
+         "url": "https://scontent-sin6-1.cdninstagram.com/t51.2885-15/s720x720/e35/c107.0.426.426/22159325_1512451652166996_289988533899231232_n.jpg",
+         "name": "Foto 3",
+         "thumbnail": "https://scontent-sin6-1.cdninstagram.com/t51.2885-15/s240x240/e35/c107.0.426.426/22159325_1512451652166996_289988533899231232_n.jpg
+      },
+      {
+         "author": "Foto 4",
+         "url": "https://scontent-sin6-1.cdninstagram.com/t51.2885-15/s720x720/e35/c140.0.360.360/18094742_1875373942677154_2413353178868219904_n.jpg",
+         "name": "Foto 4",
+         "thumbnail": "https://scontent-sin6-1.cdninstagram.com/t51.2885-15/s240x240/e35/c140.0.360.360/18094742_1875373942677154_2413353178868219904_n.jpgg"
+      },
+      {
+         "author": "Foto 5",
+         "url": "https://scontent-sin6-1.cdninstagram.com/t51.2885-15/s720x720/e35/c135.0.810.810/17494813_1869450526626855_4210080170792452096_n.jpg",
+         "name": "Foto 5",
+         "thumbnail": "https://scontent-sin6-1.cdninstagram.com/t51.2885-15/s240x240/e35/c135.0.810.810/17494813_1869450526626855_4210080170792452096_n.jpg"
+      },
+      {
+         "author": "Foto 6",
+         "url": "https://scontent-sin6-1.cdninstagram.com/t51.2885-15/s720x720/e35/17494845_1111038352334343_3231160998371000320_n.jpg",
+         "name": "Foto 6",
+         "thumbnail": "https://scontent-sin6-1.cdninstagram.com/t51.2885-15/s240x240/e35/17494845_1111038352334343_3231160998371000320_n.jpg"
+      },
+      {
+         "author": "Foto 7",
+         "url": "https://scontent-sin6-1.cdninstagram.com/t51.2885-15/s720x720/e15/17586590_402877513401216_3842355481909657600_n.jpg",
+         "name": "Foto 7",
+         "thumbnail": "https://scontent-sin6-1.cdninstagram.com/t51.2885-15/s240x240/e15/17586590_402877513401216_3842355481909657600_n.jpg"
       }
    ]
 }
